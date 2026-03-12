@@ -177,7 +177,8 @@ export default function Home() {
               </svg>
             </div>
           </Link>
-        </div>" strokeWidth="2">
+        </div>
+        <svg strokeWidth="2">
                   <polyline points="20 6 9 17 4 12" />
                 </svg>
                 Real-time order cards
